@@ -1,0 +1,22 @@
+{
+  "name": "memory-card-game-csgo-edition",
+  "version": "1.0.0",
+  "description": "Memory game for CS:GO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanDeurs/memory-card-game-CSGO-edition.git"
+  },
+  "author": "Alexander",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanDeurs/memory-card-game-CSGO-edition/issues"
+  },
+  "homepage": "https://github.com/vanDeurs/memory-card-game-CSGO-edition#readme",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
